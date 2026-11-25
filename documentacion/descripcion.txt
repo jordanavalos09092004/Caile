@@ -1,0 +1,7 @@
+Nombre: Caile
+
+Problema: Es difícil enterarse de las fiestas y eventos que hay cerca. La información está dispersa en redes sociales y mensajes, y quienes organizan no tienen un lugar sencillo donde publicarlos.
+
+Objetivo: Crear una plataforma donde las personas puedan buscar fiestas y eventos, y donde los organizadores puedan publicar los suyos.
+
+Descripción: Caile es un sistema que permite consultar fiestas públicas o privadas con su fecha, hora, ubicación, descripción y tipo de ambiente, y publicar eventos propios para que más personas los conozcan.
